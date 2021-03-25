@@ -1317,6 +1317,7 @@ Spring Cloud Bus配合Spring Cloud Config使用可以实现配置的动态刷新
 ### Sentinel
 
 相当于 Hystrix ，能进行服务降级，服务熔断，服务限流等操作。与Hystri相比，它直接界面化的细粒度统一配置。
+@SentinelResource  注解
 
 参考：https://blog.csdn.net/u011863024/article/details/114298288
 
